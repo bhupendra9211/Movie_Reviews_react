@@ -1,0 +1,43 @@
+/* styles.css */
+
+/* Basic styling for the movie container */
+.movie-container {
+    margin-top: 5rem;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  
+  /* Styling for the movie card */
+  .movie-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 1rem;
+    background-color: #333;
+    color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Styling for movie image */
+  .movie-image {
+    width: 30%;
+    margin-right: 1rem;
+    margin-top: 1rem;
+  }
+  
+  /* Styling for movie details */
+  .movie-details {
+    width: 65%;
+    margin-top: 1rem;
+  }
+  
+  /* Styling for review section */
+  .review-section {
+    margin-top: 1rem;
+    margin-left: 10px;
+  }
+  
+  /* Styling for review form */
+  .review-form {
+    margin-left: 1rem;
+  }
+  
